@@ -1,0 +1,24 @@
+var init = false;
+while (true){	
+	var server = args[0];
+	var inst = args[1];
+	var servermoneyav = getServerMoneyAvailable;
+	var serversecmin = getServerMinSecurityLevel;
+    print ('General Hack V1 Instance ' + inst);
+	if (init == false){
+	print ('Attempting to NUKE ' + server);
+    nuke (server);
+	init = true;
+		print (server + ' Has Successfully been NUKED!');
+	}
+	if (init == true){
+		if (serversecmin < getServerSecurityLevel){
+			weaken (server);
+		}
+		else if (servermoneyav < getServerMaxMoney){
+			grow (server);
+		}
+		hack (server);
+	}
+
+}
