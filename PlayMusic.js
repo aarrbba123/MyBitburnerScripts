@@ -17,7 +17,7 @@ export async function main(ns) {
 		}
 		Alt music track(Music2.txt),too lazy to reenable it at computerMusic.js
 		*/
-	if (server === null) {
+	if (server === (null||0)) {
 		server = "MusicServer";
 	}
 	if (additional === null) {
