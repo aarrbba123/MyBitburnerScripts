@@ -30,6 +30,6 @@ to
  First pass the server argument. This will go to the specified server. Any vaild server name will do(including Home!). Enter a zero for default,which is MusicServer.<br />
  Then,pass a bool,0 or 1 for comfimation to purchase the server with the name if the server you're asking for is not available.<br />
  The third argument is the location of your listMusicBitburner.txt. Follow computerMusic.js' instructions in https://github.com/MatiasCardullo/JavaScripts-Bitburner
- <h3>autodownloader.js-</h3>Just like autoupdater.js,very easy to install.<br />Commands is listed using the command help.<br />It also comes with dev protection.
+ <h3>autodownloader.js-</h3>Just like autoupdater.js,very easy to install but you will have to run the program yourself.<br />Commands is listed using the command help.<br />It also comes with dev protection.
  <h4>How to enable dev protection</h4>By changing the false to a true in datamgr.txt.
  
