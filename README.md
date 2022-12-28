@@ -8,6 +8,7 @@ Filled with my scripts.
 autoupdater.js
 <h4>Usage</h4>
 Pass 'Target-Server' for target(eg.n00dles),Then pass a bool for changelog,The third argument is only used for autoupdater.js and programs that use GeneralHackV2 as an Asynchronous distributed attack script.
+<h3>GeneralHackV3-</h3>Pass 'Target-Server' for target(eg.n00dles),Then pass a boolean if you want to supress updates.The third argument is only used for autoupdater.js and programs that use GeneralHackV2 as an Asynchronous distributed attack script.
 <h3>autoupdater.js-</h3>Just install it into home root directory.No need to setup.
 <h4>For Programmers</h4>
 autoupdater.js format Goes as follows:Name of Current Program,Host server,Threads,High-priority Alarm(bool),Additional data to pass into your script
