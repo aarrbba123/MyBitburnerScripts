@@ -1,10 +1,10 @@
 {
-  "GeneralHackV3": "300",
+  "GeneralHackV3": 300,
   "ProtoBatchTest": {
-    "PBTController": "100",
-    "PBTHack": "100",
-    "PBTGrow": "100",
-    "PBTWeaken": "100"
+    "PBTController": 100,
+    "PBTHack": 100,
+    "PBTGrow": 100,
+    "PBTWeaken": 100
   },
-  "TestUpdateData": "100"
+  "TestUpdateData": 100
 }
